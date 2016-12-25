@@ -1,0 +1,8 @@
+dofile(minetest.get_modpath("iron_chests").."/silver.lua")
+dofile(minetest.get_modpath("iron_chests").."/crystal.lua")
+dofile(minetest.get_modpath("iron_chests").."/obsidian.lua")
+dofile(minetest.get_modpath("iron_chests").."/gold.lua")
+dofile(minetest.get_modpath("iron_chests").."/copper.lua")
+dofile(minetest.get_modpath("iron_chests").."/diamond.lua")
+dofile(minetest.get_modpath("iron_chests").."/steel.lua")
+dofile(minetest.get_modpath("iron_chests").."/aliases.lua")
